@@ -1,0 +1,4 @@
+this is a test document
+we can use this document to check how awesome we are at using git
+change med and push me around 
+yey
