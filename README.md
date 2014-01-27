@@ -1,2 +1,3 @@
-SintefTraining
+intefTraining
 ==============
+Kan Espen se dete
